@@ -5,7 +5,7 @@ Consensus Framework (CF)
 
 # Introduction
 
-The Consensus Framework (CFF) is an innovative, open-source blockchain framework designed to dynamically adapt its consensus mechanism based on network conditions, transaction volumes, security requirements, and energy efficiency. CFF aims to integrate the strengths of various consensus mechanisms into a single, unified system, providing a flexible, scalable, and efficient blockchain solution.
+The Consensus Framework (CF) is an innovative, open-source blockchain framework designed to dynamically adapt its consensus mechanism based on network conditions, transaction volumes, security requirements, and energy efficiency. CFF aims to integrate the strengths of various consensus mechanisms into a single, unified system, providing a flexible, scalable, and efficient blockchain solution.
   
 # Project Objectives
 
@@ -29,7 +29,7 @@ The framework is designed to be blockchain-agnostic, supporting various blockcha
 
 # Architecture
 
-The CFF architecture consists of several key components:
+The CF architecture consists of several key components:
 
 ∙ Consensus Module Interface: A generic interface for consensus modules, allowing for easy integration and interchangeability of consensus mechanisms.
 ∙ Dynamic Consensus Selector: A component that evaluates network conditions and selects the most appropriate consensus mechanism based on predefined criteria.
@@ -64,7 +64,7 @@ Minikube (for local Kubernetes deployment)
 
 ## How to Contribute
 
-CFF welcomes contributions from the community, whether it's adding new consensus mechanisms, enhancing the framework's architecture, improving documentation, or reporting bugs.
+CF welcomes contributions from the community, whether it's adding new consensus mechanisms, enhancing the framework's architecture, improving documentation, or reporting bugs.
 
 ## Contributing Guidelines
 
