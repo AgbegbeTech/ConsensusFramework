@@ -9,26 +9,21 @@ The Consensus Framework (CFF) is an innovative, open-source blockchain framework
   
 # Project Objectives
 
-∙ To explore and integrate multiple consensus mechanisms within a singular framework.
-∙ To enable dynamic selection of consensus mechanisms based on predefined criteria.
-∙ To provide a modular, extensible architecture that encourages community-driven enhancements and innovations.
-∙ To foster an inclusive and collaborative environment for developers and researchers interested in blockchain technology and its applications.
+  ∙ To explore and integrate multiple consensus mechanisms within a singular framework.
+  ∙ To enable dynamic selection of consensus mechanisms based on predefined criteria.
+  ∙ To provide a modular, extensible architecture that encourages community-driven enhancements and innovations.
+  ∙ To foster an inclusive and collaborative environment for developers and researchers interested in blockchain technology and its applications.
 
 # Framework Overview
 
 CF is built with modularity and flexibility in mind, allowing for seamless integration and switching between different consensus mechanisms, including but not limited to:
 
-∙ Proof of Work (PoW)
-
-∙ Proof of Stake (PoS)
-
-∙ Delegated Proof of Stake (DPoS)
-
-∙ Proof of Authority (PoA)
-
-∙ Proof of Space (PoSpace)
-
-∙ ...and more
+  ∙ Proof of Work (PoW)
+  ∙ Proof of Stake (PoS)
+  ∙ Delegated Proof of Stake (DPoS)
+  ∙ Proof of Authority (PoA)
+  ∙ Proof of Space (PoSpace)
+  ∙ ...and more
 
 The framework is designed to be blockchain-agnostic, supporting various blockchain technologies and applications through a plug-and-play consensus module system.
 
@@ -73,10 +68,10 @@ CFF welcomes contributions from the community, whether it's adding new consensus
 
 ## Contributing Guidelines
 
-∙ Fork the repository and clone it locally.
-∙ Create a new branch for your contribution.
-∙ Follow the coding standards and commit message guidelines.
-∙ Submit a pull request with a detailed description of your changes.
+  ∙ Fork the repository and clone it locally.
+  ∙ Create a new branch for your contribution.
+  ∙ Follow the coding standards and commit message guidelines.
+  ∙ Submit a pull request with a detailed description of your changes.
 
 Please see CONTRIBUTING.md for more detailed instructions.
 
