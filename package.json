@@ -1,0 +1,12 @@
+{
+  "name": "consensusframework",
+  "version": "1.0.0",
+  "description": "Open-source blockchain framework designed to dynamically adapt its consensus mechanism based on network conditions, transaction volumes, security requirements, and energy efficiency.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
