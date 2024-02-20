@@ -19,10 +19,15 @@ The Consensus Framework (CFF) is an innovative, open-source blockchain framework
 CF is built with modularity and flexibility in mind, allowing for seamless integration and switching between different consensus mechanisms, including but not limited to:
 
 ∙ Proof of Work (PoW)
+
 ∙ Proof of Stake (PoS)
+
 ∙ Delegated Proof of Stake (DPoS)
+
 ∙ Proof of Authority (PoA)
+
 ∙ Proof of Space (PoSpace)
+
 ∙ ...and more
 
 The framework is designed to be blockchain-agnostic, supporting various blockchain technologies and applications through a plug-and-play consensus module system.
