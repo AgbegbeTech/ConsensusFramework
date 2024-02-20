@@ -5,11 +5,11 @@ Consensus Framework (CF)
 
 # Introduction
 
-The Consensus Fusion Framework (CFF) is an innovative, open-source blockchain framework designed to dynamically adapt its consensus mechanism based on network conditions, transaction volumes, security requirements, and energy efficiency. CFF aims to integrate the strengths of various consensus mechanisms into a single, unified system, providing a flexible, scalable, and efficient blockchain solution.
+The Consensus Framework (CFF) is an innovative, open-source blockchain framework designed to dynamically adapt its consensus mechanism based on network conditions, transaction volumes, security requirements, and energy efficiency. CFF aims to integrate the strengths of various consensus mechanisms into a single, unified system, providing a flexible, scalable, and efficient blockchain solution.
   
 # Project Objectives
 
-∙ TO explore and integrate multiple consensus mechanisms within a singular framework.
+∙ To explore and integrate multiple consensus mechanisms within a singular framework.
 ∙ To enable dynamic selection of consensus mechanisms based on predefined criteria.
 ∙ To provide a modular, extensible architecture that encourages community-driven enhancements and innovations.
 ∙ To foster an inclusive and collaborative environment for developers and researchers interested in blockchain technology and its applications.
